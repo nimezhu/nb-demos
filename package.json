@@ -2,9 +2,19 @@
   "name": "nb-demos",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "dependencies": {
+    "3dmol": "^1.4.0",
+    "@material-ui/core": "next",
+    "@material-ui/icons": "^3.0.2",
+    "@material-ui/styles": "next",
+    "@nucleome/nb-dispatch": "0.0.1",
+    "d3": "latest",
+    "ideogram": "^1.12.0",
+    "jquery": "^3.4.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
+    "react-router-dom": "^5.0.0",
     "react-scripts": "3.1.2"
   },
   "scripts": {
